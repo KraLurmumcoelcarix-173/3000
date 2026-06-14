@@ -10,7 +10,7 @@ Excel版再要你命3000
 另有Mad-Devil维护的带发音版[在此](https://github.com/Mad-Devil/3000/tree/dev)，
 由于音频文件较多，因此没有合并到此项目中。
 
-## 基本信息
+### 基本信息    
 
 原始文件出处：<https://forum.chasedream.com/thread-702976-1-1.html>，作者“我和葡萄”
 
